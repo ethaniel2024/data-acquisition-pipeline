@@ -1,3 +1,25 @@
+# Data Acquisition Pipeline
+
+## Overview
+This project demonstrates how to collect, clean, and structure raw data into an analysis-ready format.
+
+## Why It Matters
+In real-world analytics, 80%+ of time is spent preparing data. This project shows a repeatable approach.
+
+## Tools Used
+- Python
+- Pandas
+
+## Process
+1. Data collection
+2. Cleaning
+3. Structuring
+4. Export for analysis
+
+## Key Takeaways
+- Built reusable pipeline
+- Improved data reliability
+
 # Buster Posey Career Performance Dataset
 ### Data Curation, Feature Engineering, and Baseball Analytics
 
